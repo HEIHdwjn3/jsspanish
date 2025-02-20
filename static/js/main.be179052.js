@@ -9851,7 +9851,7 @@
                                         children: "Información detallada en video"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://informacion-detallada.vercel.app/en-video.mp4",
+                                        src: "https://cdn.glitch.me/d62f4552-b5b8-4b18-8d03-2ccd726252b6/Spanish%20Violation%20Detailed%20Video.mp4?v=1738938209004",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
